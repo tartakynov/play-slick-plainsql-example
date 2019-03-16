@@ -1,4 +1,4 @@
-package data.data
+package data
 
 import com.google.inject.Inject
 import play.api.db.slick.DatabaseConfigProvider
