@@ -1,0 +1,4 @@
+GET     /api/users                  controllers.ApiController.getUsers
+GET     /api/users/:id              controllers.ApiController.getUser(id: Int)
+GET     /*file                      controllers.Assets.at(path="/public", file)
+
